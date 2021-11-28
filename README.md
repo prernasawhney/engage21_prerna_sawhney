@@ -49,11 +49,12 @@ Inside client folder, create a new file called .env which stores your REACT_APP_
 store your security key inside REACT_APP_SECURITY_KEY variable, note that this value must same as SECURITY_KEY in server/.env file
 store your server url inside REACT_APP_BACKEND_URL variable
 
-install all dependencies.
+## installing all dependencies
 
 Client side: on the client directory type npm install
 Server side: on the server directory type npm install
-Run it on node js:
+
+## npm start
 
 Client side: on the client directory type npm start
 Server side: on the server directory type npm start
