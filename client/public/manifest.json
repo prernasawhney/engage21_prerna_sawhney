@@ -1,0 +1,25 @@
+{
+  "short_name": "classify by Prerna",
+  "name": "virtual class",
+  "icons": [
+    {
+      "src": "https://www.shareicon.net/data/512x512/2015/11/22/676282_people_512x512.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://www.shareicon.net/data/512x512/2015/11/22/676282_people_512x512.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
